@@ -9,4 +9,8 @@ This project is basically The Odin Project giving me the assignment to create a 
 
 This is the first project I ever published on GitHub and I invite you to take a look at it and give me some feedback or suggestions for improvement.
 
-Have a nice day!
+The preview website can be accessed here:
+
+https://johneuk.github.io/odin-recipes/index.html
+
+I wish you a good time

@@ -13,9 +13,7 @@ img {
 }
 
 button {
-    background-color:grey;
-    padding: 5px;
-    margin: 20px auto
+    background-color:grey;  
 }
 
 .btn {
@@ -32,9 +30,12 @@ button {
 }
 
 h1 {
-    color: rgb(178, 111, 30);
+    color:firebrick;
     display: block;
-    font-weight: bold;
+    font-weight: 900;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    font-size: 1000;
+    text-transform: uppercase;
 }
 
 .rahmen {
@@ -67,4 +68,19 @@ body {
     color: white;
     text-decoration: none;
     background-color: black;
+}
+
+.nav-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nav-list li {
+    flex-grow: 1;
+    flex-shrink: 1;
 }
